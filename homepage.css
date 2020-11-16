@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+}
+html, body {
+    height: 100%;
+}
+body {
+    <!--background-image: url("web-photo.jpeg");-->
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: soft-light;
+}
+
+.heading {
+    width:800px;
+    height:300px;
+    margin: auto;
+    position: absolute;
+    top:0px; bottom:0px; right:0px; left:0px;
+    text-align: center;
+}
+
+.name{
+    display:block;
+    text-align: center;
+    color: black;
+    font-size: 55pt;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.bio_title{
+    display: block;
+    margin-top: 16px;
+    text-align: center;
+    color: rgb(80, 91, 97);
+    font-size: 19pt;
+    font-family: serif;
+}
+
+a.button{
+    webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+    line-height: 45px;
+
+    margin: 40px auto;
+    display: inline-block;
+    width: 160px;
+    height: 45px;
+    border:1px solid black;
+    background-color: rgba(255,255,255,0);
+    color:black;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 11pt;
+    border-radius: 5px;
+    transition: background-color 500ms, color 500ms, font-size 100ms;
+    margin-left: 20px;
+    
+    
+}
+
+ a.button:hover {
+    font-size: 16px;
+    background-color: rgb(80, 91, 97);
+    color: whitesmoke;
+    cursor:pointer;
+    transition: background-color 500ms, color 500ms, font-size 300ms;
+   
+}
