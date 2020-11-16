@@ -6,7 +6,7 @@ html, body {
     height: 100%;
 }
 body {
-    <!--background-image: url("web-photo.jpeg");-->
+    background-image: url("homepage_background.jpeg");
     background-position: center;
     background-size: cover;
     background-blend-mode: soft-light;
@@ -23,7 +23,7 @@ body {
 
 .name{
     display:block;
-    text-align: center;
+    text-align: left;
     color: black;
     font-size: 55pt;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
