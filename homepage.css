@@ -23,19 +23,21 @@ body {
 
 .name{
     display:block;
+    vertical-align: top;
     text-align: start;
     color: black;
-    font-size: 55pt;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size: 40pt;
+    font-family: Arial;
 }
 
 .bio_title{
     display: block;
     margin-top: 16px;
     text-align: center;
-    color: rgb(80, 91, 97);
-    font-size: 19pt;
-    font-family: serif;
+    vertical-align: top;
+    color: black;
+    font-size: 24pt;
+    font-family: Arial;
 }
 
 a.button{
