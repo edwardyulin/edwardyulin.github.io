@@ -22,6 +22,9 @@ body {
 }
 
 .name{
+    position: absolute;
+    top: 8px;
+    left: 16px;
     display:block;
     vertical-align: top;
     text-align: left;
