@@ -1,10 +1,8 @@
-*{
-    margin:0;
-    padding:0;
-}
-html, body {
-    height: 100%;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
 body {
     background-image: url("homepage_background.jpg");
     background-position: center;
@@ -14,12 +12,12 @@ body {
 }
 
 .heading {
-    width:800px;
+    width:2000px;
     height:300px;
     margin: auto;
     position: absolute;
     top:0px; bottom:0px; right:0px; left:0px;
-    text-align: center;
+    text-align: left;
 }
 
 .name{
@@ -75,3 +73,6 @@ a.button{
     transition: background-color 500ms, color 500ms, font-size 300ms;
    
 }
+</style>
+</head>
+<body>
