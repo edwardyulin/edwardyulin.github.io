@@ -23,7 +23,7 @@ body {
 .name{
     display:block;
     vertical-align: top;
-    text-align: left;
+    text-align: center;
     color: black;
     font-size: 40pt;
     font-family: Arial;
@@ -32,7 +32,7 @@ body {
 .bio_title{
     display: block;
     margin-top: 16px;
-    text-align: left;
+    text-align: center;
     vertical-align: top;
     color: black;
     font-size: 24pt;
@@ -49,7 +49,8 @@ a.button{
     line-height: 45px;
 
     margin: 40px auto;
-    display: grid;
+    display: inline-block;
+    vertical-align: top;
     width: 160px;
     height: 45px;
     border:1px solid black;
