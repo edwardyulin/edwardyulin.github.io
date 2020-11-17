@@ -50,7 +50,7 @@ a.button{
     line-height: 45px;
 
     margin: 40px auto;
-    display: inline-block;
+    display: grid;
     width: 160px;
     height: 45px;
     border:1px solid black;
