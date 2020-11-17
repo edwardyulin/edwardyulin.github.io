@@ -1,9 +1,8 @@
 .proj_img {
-  display: block;
-  width: 50%;
-  position: absolute;
-  top: 50%;
-  left: 50%
+    display: block;
+    margin-top: 16px;
+    text-align: center;
+    vertical-align: top;
 }
 
 .proj_title{
