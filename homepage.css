@@ -12,6 +12,14 @@ body {
     background-blend-mode: soft-light;
 }
 
+.propic {
+    position absolute;
+    top: 20px;
+    bottom 300px;
+    left 100px;
+    display: block;
+}
+
 .heading {
     margin: auto;
     position: absolute;
