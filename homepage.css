@@ -25,7 +25,7 @@ body {
     vertical-align: top;
     text-align: left;
     color: black;
-    font-size: 40pt;
+    font-size: 100pt;
     font-family: Arial;
 }
 
@@ -51,6 +51,7 @@ a.button{
     margin: 40px auto;
     display: inline-block;
     vertical-align: top;
+    text-align: right;
     width: 160px;
     height: 45px;
     border:1px solid black;
