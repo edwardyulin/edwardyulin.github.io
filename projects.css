@@ -2,8 +2,7 @@
 
 .proj_title{
     margin: auto;
-    position: fixed;
-    top:0px; bottom:0px; right:0px; left:0px;
+    position: absolute;
     text-align: center;
     font-size: 32pt;
     font-weight: bold;
@@ -11,8 +10,7 @@
 
 .lang_used{
     margin: auto;
-    position: fixed;
-    top:0px; bottom:0px; right:0px; left:0px;
+    position: absolute;
     text-align: center;
     display: block;
     font-size: 12pt;
@@ -23,8 +21,7 @@
 .desc{
     display: block;
     margin: auto;
-    position: fixed;
-    top:0px; bottom:0px; right:0px; left:0px;
+    position: absolute;
     text-align: center;
     line-height: 20px;
     font-size: 14pt;
