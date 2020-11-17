@@ -13,7 +13,7 @@ body {
 }
 
 .propic {
-    position absolute;
+    position: absolute;
     max-width: 25%;
     height: auto;
     top:200px;
