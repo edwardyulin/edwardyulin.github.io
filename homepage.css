@@ -17,13 +17,13 @@ body {
     margin: auto;
     position: absolute;
     top:0px; bottom:0px; right:0px; left:0px;
-    text-align: left;
+    text-align: center;
 }
 
 .name{
     display:block;
     vertical-align: top;
-    text-align: center;
+    text-align: left;
     color: black;
     font-size: 40pt;
     font-family: Arial;
