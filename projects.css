@@ -1,15 +1,6 @@
-.center {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  font-size: 18px;
-}
+
 
 .proj_title{
-    margin-top: 20px;
-    margin-right: 165px;
-    margin-bottom: 5px;
     text-align: center;
     font-size: 32pt;
     font-weight: bold;
@@ -18,9 +9,8 @@
 
 .lang_used{
     display: block;
-    margin-right: 30px;
     text-align: center;
-    font-size: 10pt;
+    font-size: 12pt;
     font-family: serif;
     font-weight: lighter;
     margin-bottom: 20px; 
@@ -28,10 +18,9 @@
 
 .desc{
     display: block;
-    text-align: left;
     text-align: center;
     line-height: 20px;
-    font-size: 12pt;
+    font-size: 14pt;
     font-family: serif;
     font-weight: lighter;
 }
