@@ -16,9 +16,8 @@ body {
     position absolute;
     max-width: 25%;
     height: auto;
-    top:20px;
-    bottom:300px;
-    left: 120px;
+    top:200px;
+    left: 50px;
     display: block;
 }
 
