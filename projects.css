@@ -1,17 +1,6 @@
-.poke {
-    position absolute;
-    max-width: 25%;
-    height: auto;
-    top:100px
-    left: 100px;
-    display: block;
-}
 
-.chatbot {
-    position absolute;
-    max-width: 25%;
-    height: auto;
-    top:250px;
-    left: 600px;
-    display: block;
+.pokemon_text {
+    position: fixed;
+    bottom: 550;
+    right: 200;
 }
