@@ -1,6 +1,27 @@
+.proj_title{
+    margin-top: 20px;
+    margin-right: 165px;
+    margin-bottom: 5px;
+    font-size: 32pt;
+    font-weight: bold;
+    font-family: "Assistant", "sans-serif";
+}
 
-.pokemon_text {
-    position: fixed;
-    bottom: 550;
-    right: 200;
+.lang_used{
+    display: block;
+    margin-right: 30px;
+    font-size: 10pt;
+    font-family: serif;
+    font-weight: lighter;
+    margin-bottom: 20px; 
+}
+
+.desc{
+    display: block;
+    text-align: left;
+    margin-left: 200px;
+    line-height: 20px;
+    font-size: 12pt;
+    font-family: serif;
+    font-weight: lighter;
 }
