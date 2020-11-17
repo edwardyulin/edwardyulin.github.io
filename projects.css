@@ -5,29 +5,31 @@
 }
 
 .proj_title{
-    margin: auto;
-    position: absolute;
+    display: block;
+    margin-top: 16px;
     text-align: center;
-    font-size: 32pt;
-    font-weight: bold;
+    vertical-align: top;
+    color: black;
+    font-size: 28pt;
+    font-family: Arial;
 }
 
 .lang_used{
-    margin: auto;
-    position: absolute;
-    text-align: center;
     display: block;
+    margin-top: 16px;
+    text-align: center;
+    vertical-align: top;
+    color: black;
     font-size: 12pt;
-    font-weight: lighter;
-    margin-bottom: 20px; 
+    font-family: Arial;
 }
 
 .desc{
     display: block;
-    margin: auto;
-    position: absolute;
+    margin-top: 16px;
     text-align: center;
-    line-height: 20px;
+    vertical-align: top;
+    color: black;
     font-size: 14pt;
-    font-weight: lighter;
+    font-family: Arial;
 }
