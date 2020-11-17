@@ -1,26 +1,32 @@
 
 
 .proj_title{
+    margin: auto;
+    position: fixed;
+    top:0px; bottom:0px; right:0px; left:0px;
     text-align: center;
     font-size: 32pt;
     font-weight: bold;
-    font-family: "Assistant", "sans-serif";
 }
 
 .lang_used{
-    display: block;
+    margin: auto;
+    position: fixed;
+    top:0px; bottom:0px; right:0px; left:0px;
     text-align: center;
+    display: block;
     font-size: 12pt;
-    font-family: serif;
     font-weight: lighter;
     margin-bottom: 20px; 
 }
 
 .desc{
     display: block;
+    margin: auto;
+    position: fixed;
+    top:0px; bottom:0px; right:0px; left:0px;
     text-align: center;
     line-height: 20px;
     font-size: 14pt;
-    font-family: serif;
     font-weight: lighter;
 }
