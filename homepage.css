@@ -24,7 +24,7 @@ body {
 .name{
     display:block;
     vertical-align: top;
-    text-align: start;
+    text-align: left;
     color: black;
     font-size: 40pt;
     font-family: Arial;
@@ -33,7 +33,7 @@ body {
 .bio_title{
     display: block;
     margin-top: 16px;
-    text-align: center;
+    text-align: left;
     vertical-align: top;
     color: black;
     font-size: 24pt;
