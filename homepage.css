@@ -14,10 +14,8 @@ body {
 
 .propic {
     position absolute;
-    top: 20px;
-    bottom 300px;
-    left 100px;
-    display: block;
+    max-width: 50%;
+    height: auto;
 }
 
 .heading {
