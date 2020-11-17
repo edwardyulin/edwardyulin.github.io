@@ -10,6 +10,7 @@ body {
     background-position: center;
     background-size: cover;
     background-blend-mode: soft-light;
+    
 }
 
 .heading {
@@ -22,9 +23,6 @@ body {
 }
 
 .name{
-    position: absolute;
-    top: 8px;
-    left: 16px;
     display:block;
     vertical-align: top;
     text-align: left;
