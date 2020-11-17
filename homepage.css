@@ -1,8 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
+*{
+    margin:0;
+    padding:0;
+}
+html, body {
+    height: 100%;
+}
 body {
     background-image: url("homepage_background.jpg");
     background-position: center;
@@ -12,8 +14,6 @@ body {
 }
 
 .heading {
-    width:2000px;
-    height:300px;
     margin: auto;
     position: absolute;
     top:0px; bottom:0px; right:0px; left:0px;
@@ -73,6 +73,4 @@ a.button{
     transition: background-color 500ms, color 500ms, font-size 300ms;
    
 }
-</style>
-</head>
-<body>
+
