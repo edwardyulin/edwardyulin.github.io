@@ -8,7 +8,7 @@ html, body {
 body {
     background-image: url("homepage_background.png");
     background-position: center;
-    background-size: fill;
+    background-size: cover;
     background-blend-mode: soft-light;
 }
 
