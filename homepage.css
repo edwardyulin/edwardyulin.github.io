@@ -6,9 +6,9 @@ html, body {
     height: 100%;
 }
 body {
-    background-image: url("homepage_background.jpg");
+    background-image: url("homepage_background.png");
     background-position: center;
-    background-size: cover;
+    background-size: fill;
     background-blend-mode: soft-light;
     
 }
