@@ -43,6 +43,14 @@
     font-size: 18pt;
 }
 
+.menu {
+    margin: auto;
+    position: absolute;
+    top:0px; bottom:0px; right:0px; left:0px;
+    text-align: left;
+    font-size: 18pt;
+}
+
 a.main_menu{
     webkit-appearance: button;
     -moz-appearance: button;
