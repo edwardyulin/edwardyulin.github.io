@@ -35,14 +35,19 @@
     font-family: Arial;
 }
 
+.heading {
+    margin: auto;
+    position: absolute;
+    top:0px; bottom:0px; right:0px; left:0px;
+    text-align: center;
+    font-size: 18pt;
+}
+
 a.main_menu{
     webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
 
-    display: block;
-    text-align: left;
-    vertical-align: top;
     text-decoration: none;
     color: initial;
     line-height: 45px;
@@ -70,9 +75,6 @@ a.button{
     -moz-appearance: button;
     appearance: button;
 
-    display: block;
-    text-align: center;
-    vertical-align: top;
     text-decoration: none;
     color: initial;
     line-height: 45px;
