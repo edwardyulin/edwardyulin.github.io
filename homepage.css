@@ -47,7 +47,16 @@ body {
     font-size: 28pt;
     font-family: Arial;
 }
-
+.bio{
+    display: block;
+    margin-top: 16px;
+    text-align: right;
+    vertical-align: top;
+    color: black;
+    font-size: 16pt;
+    font-family: Arial;
+}
+    
 a.button{
     webkit-appearance: button;
     -moz-appearance: button;
