@@ -9,6 +9,9 @@
     font-size: 18pt;
 }
 
+body {
+  background-color: rgb(252, 240, 225);
+}
 
 
 a.button{

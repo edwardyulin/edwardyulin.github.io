@@ -11,6 +11,10 @@
     font-size: 18pt;
 }
 
+body {
+    background-color: rgb(250, 237, 252);
+}
+
 
 a.button{
     webkit-appearance: button;
